@@ -30,9 +30,6 @@
 *.exe
 *.out
 *.app
-*.vcxproj
-*.filters
-*.user
 *.db
 *.opendb
 x64/
