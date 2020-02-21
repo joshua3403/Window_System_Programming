@@ -23,7 +23,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="RaiseException.cpp">
+    <ClCompile Include="EXCEPTION_NONCONTINUABLE.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
